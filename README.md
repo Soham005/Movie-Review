@@ -24,11 +24,11 @@ It classifies user-submitted movie reviews as **Positive 😊** or **Negative �
 
 ## 📂 Project Structure
 
-├── app.py # Streamlit app
-├── Movie_Reviews.ipynb # Jupyter notebook (training & EDA)
-├── IMDB Dataset-2.csv # Dataset (~50,000 reviews)
-├── model.pkl # Trained ML model
-├── scaler.pkl # TF-IDF vectorizer (saved)
+├── app.py # Streamlit app <br>
+├── Movie_Reviews.ipynb # Jupyter notebook (training & EDA) <br>
+├── IMDB Dataset-2.csv # Dataset (~50,000 reviews) <br>
+├── model.pkl # Trained ML model <br>
+├── scaler.pkl # TF-IDF vectorizer (saved) <br>
 
 ---
 
